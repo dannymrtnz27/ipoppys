@@ -1,0 +1,402 @@
+[
+    {
+        "video": "movies/La Guerra del Mañana.mp4" ,
+        "imagen": "movies/LGDM.jpg",
+        "trailer" : "https://www.youtube.com/embed/-SKUaEjmUWc?si=s-JxpYXaOGaTLuWU",
+        "titulo": "La Guerra del Mañana 2021",
+        "category": "Ciencia Ficción, Viajes en el Tiempo",
+        "cast" : "Elenco: Chris Pratt, Yvonne Strahovski, J. K. Simmons, Betty Gilpin, Sam Richardson, Theo Von, Keith Powers, Spoon Mitchell y Jasmine Mathews",
+        "descript": "Unos viajeros llegan desde el año 2051 para dar un mensaje: 30 años en el futuro, la humanidad estará perdiendo la guerra contra unos alienígenas. La única esperanza para sobrevivir es que los soldados y civiles vayan al futuro y se sumen a la batalla. Decidido a salvar el mundo por su hija, Dan Forester se une a una científica brillante y su distante padre para reescribir el destino del planeta.",
+        "vi": true
+    },
+    {
+        "video": "movies/Yo, Robot.webm",
+        "imagen": "movies/YRb.jpg",
+        "trailer" : "",
+        "titulo": "Yo, robot",
+        "category": "Tecnología",
+        "cast": "Elenco: Will Smith, Bridget Moynahan, Bruce Greenwood, James Cromwell, Chi McBride, Alan Tudyk",
+        "descript": "Yo Robot (título original en inglés: I, Robot) es una película de acción y ciencia ficción distópica estadounidense producida en 2004.",
+        "vi": true
+      },
+    {
+        "video": "movies/Ghosted.mp4" ,
+        "imagen": "movies/ghosted.jpg",
+        "trailer" : "",
+        "titulo": "Ghosted",
+        "category": "Romance, Espias, Ciencia Ficción",
+        "cast" : "Elenco: Chris Evans, Ana de Armas, Adrien Brody, Mike Moh, Amy Sedaris, Tate Donovan, Tim Blake Nelson, Marwan Kenzari, Anna Deavere Smith",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Agente Stone.mp4" ,
+        "imagen": "movies/Agente Stone.jpg",
+        "trailer" : "",
+        "titulo": "Agente Stone",
+        "category": "Espias, Ciencia Ficción",
+        "cast" : "Elenco: Gal Gadot, Jamie Dornan, Alia Bhatt, Sophie Okonedo, Matthias Schweighöfer",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Canario negro 2024.mp4" ,
+        "imagen": "movies/canario Negro.jpg",
+        "trailer" : "",
+        "titulo": "Canario Negro 2024",
+        "category": "Tecnología, Espias, Ciencia Ficción",
+        "cast" : "Elenco: ",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Abigail 2024.mp4" ,
+        "imagen": "movies/Abigail.jpg",
+        "trailer" : "",
+        "titulo": "Abigail 2024",
+        "category": "Terror",
+        "cast" : "Elenco: Melissa Barrera, Dan Stevens, Kathryn Newton, Will Catlett, Kevin Durand, Angus Cloud, Alisha Weir, Giancarlo Esposito.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Noche Sin Paz.mp4" ,
+        "imagen": "movies/noche sin paz.jpg",
+        "trailer" : "",
+        "titulo": "Noche Sin Paz",
+        "category": "Ciencia Ficción, Navideñas",
+        "cast" : "Elenco: David Harbour, John Leguizamo, Alex Hassell, Alexis Louder, Beverly D'Angelo",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Deadpool&Wolverine.mkv" ,
+        "imagen": "movies/deadpool y wolverine.jpg",
+        "trailer": "https://www.youtube.com/embed/UzFZR2dRsSY?si=rdD3cB426rtKTQSe",
+        "titulo": "DEADPOOL & WOLVERINE",
+        "category": "Marvel, super heroes",
+        "cast" : "Elenco: Ryan Reynolds, Hugh Jackman, Emma Corrin, Morena Baccarin, Rob Delaney, Leslie Uggams, Aaron Stanford, Matthew Macfadyen",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Venom.mp4" ,
+        "imagen": "movies/Venom 2018.png",
+        "trailer" : "",
+        "titulo": "VENOM",
+        "category": "Marvel, Sony, super heroes",
+        "cast" : "Elenco: Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze, Reid Scott.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Venom 2 Carnage liberado.mp4" ,
+        "imagen": "movies/venom 2021.jpg",
+        "trailer" : "",
+        "titulo": "VENOM 2 VARNAGE LIBERADO",
+        "category": "Marvel, Sony, super heroes",
+        "cast" : "Elenco: Tom Hardy, Michelle Williams, Naomie Harris, Reid Scott, Stephen Graham, Woody Harrelson.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Venom.mp4" ,
+        "imagen": "movies/venom el ultimo baile.jpg",
+        "trailer" : "",
+        "titulo": "VENOM 3 EL ÚLTIMO BAILE",
+        "category": "Marvel, Sony, Super Heroes",
+        "cast" : "Elenco: Tom Hardy, Chiwetel Ejiofor, Juno Temple, Rhys Ifans, Stephen Graham, Peggy Lu, Clark Backo, Alanna Ubach, Andy Serkis.",
+        "descript": "Venom: el último Baile 2024, es el final de la saga del symbiote negro en solitario",
+        "vi": true
+    },
+    {
+        "video": "movies/Gran Turismo.mp4" ,
+        "imagen": "movies/gran turismo.jpg",
+        "trailer" : "",
+        "titulo": "GRAN TURISMO",
+        "category": "Basadas en la vida real",
+        "cast" : "Elenco: David Harbour, Orlando Bloom, Archie Madekwe, Darren Barnet, Geri Halliwell Horner, Djimon Hounsou",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Lаmborghini.mp4" ,
+        "imagen": "movies/lamborghini.png",
+        "trailer" : "",
+        "titulo": "Lаmborghini",
+        "category": "Basadas en la vida real",
+        "cast" : "Elenco: Frank Grillo, Romano Reggiani, Matteo Leoni, Hannah van der Westhuysen, Giovanni Antonacci, Mira Sorvino, Gabriel Byrne.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/TNT - Piratas de Silicon Valley 1999.mp4" ,
+        "imagen": "movies/piratas de silicon valley.jpg",
+        "trailer" : "",
+        "titulo": "piratas de silicon valley",
+        "category": "Tecnología, Basadas en la vida real",
+        "cast" : "Elenco: ",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Steve Jobs.webm" ,
+        "imagen": "movies/Steve-Jobs.jpg",
+        "trailer" : "",
+        "titulo": "Jobs",
+        "category": "Tecnología, Basadas en la vida real",
+        "cast" : "Elenco: ",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Steve Jobs.mkv" ,
+        "imagen": "movies/stevejobs.jpg",
+        "trailer" : "",
+        "titulo": "Steve Jobs",
+        "category": "Tecnología, Basadas en la vida real",
+        "cast" : "Elenco: ",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/steve jobs entrevista perdida.mp4" ,
+        "imagen": "movies/stevejobsbig.jpg",
+        "trailer" : "",
+        "titulo": "steve jobs entrevista perdida",
+        "category": "Tecnología, Basadas en la vida real",
+        "cast" : "Elenco: ",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/why him.mp4" ,
+        "imagen": "movies/porque el_.jpeg",
+        "titulo": "¿Por qué él?",
+        "trailer" : "",
+        "category": "Tecnología, Comedia",
+        "cast" : "Elenco: James Franco, Bryan Cranston, Megan Mullally, Zoey Deutch, Cedric the Entertainer, Griffin Gluck, Keegan-Michael Key.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Bad Boys Hasta la muerte.mp4" ,
+        "imagen": "movies/bad boys.jpg",
+        "trailer" : "",
+        "titulo": "Bad Boys Hasta la muerte",
+        "category": "Ciencia Ficción, Policiales",
+        "cast" : "Elenco: Will Smith, Martin Lawrence, Vanessa Hudgens, Alexander Ludwig, Paola Núñez, Jacob Scipio, Eric Dane, Ioan Gruffudd, Melanie Liburd, Tasha Smith, Tiffany Haddish, Joe Pantoliano, Rhea Seehorn.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Amor redentor.mp4" ,
+        "imagen": "movies/amor redentor.jpg",
+        "trailer" : "",
+        "titulo": "Amor Redentor",
+        "category": "Drama, Romance",
+        "cast" : "Elenco: Abigail Cowen, Tom Lewis, Logan Marshall-Green, Wu Kexi, Famke Janssen, Nina Dobrev, Eric Dane.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/ElSecretoDeAdaline.mp4",
+        "imagen": "movies/adaline.jpeg",
+        "trailer" : "",
+        "titulo": "El Secreto De Adaline",
+        "category": "Drama, Romance",
+        "cast" : "Elenco: Blake Lively, Michiel Huisman, Harrison Ford, Ellen Bursty.",
+        "descript": "El secreto de Adaline 2015 (originalmente The age of Adaline) es una película romántica y fantástica dirigida por Lee Toland Krieger y escrita por J. Mills Goodloe y Salvador Paskowitz. ",
+        "vi": true
+    },
+    {
+        "video": "movies/Spider Man No Way Home.mp4" ,
+        "imagen": "movies/spider man sin camino a casa.jpg",
+        "trailer" : "",
+        "titulo": "spider man sin camino a casa",
+        "category": "Marvel, Sony, super heroes",
+        "cast" : "Elenco: Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau, Jamie Foxx, Willem Dafoe, Alfred Molina, Benedict Wong, Tony Revolori, Marisa Tomei, Andrew Garfield, Tobey Maguire.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Idiocracia.mp4",
+        "imagen": "movies/idiocracy.jpg",
+        "trailer" : "",
+        "titulo": "Idiocracia",
+        "category": "Ciencia Ficción, Comedia",
+        "cast" : "Elenco: Luke Wilson, Maya Rudolph, Dax Shepard, Terry Crews.",
+        "descript": "Idiocracy (Idiocracia, en España; La idiocracia, en México) es una comedia cinematográfica del año 2006, dirigida por Mike Judge que denuncia la cultura estadounidense, la cual se presenta como antiintelectual, insensible al medio ambiente, consumista, obesa, saturada por la mercadotecnia, violenta, dominada por las grandes corporaciones, amante de las armas y fanática de la comida basura.",
+        "vi": true
+    },
+    {
+        "video": "movies/Un Gato Callejero Llamado Bob.webm",
+        "imagen": "movies/UnGatoLlamadoBob.jpg",
+        "trailer" : "",
+        "titulo": "Un Gato Callejero Llamado Bob",
+        "category": "Basadas en la vida real, Mascotas",
+        "cast" : "Elenco: Luke Treadaway, Ruta Gedmintas, Joanne Froggatt, Anthony Head, Caroline Goodall, Bob The Cat.",
+        "descript": "Un gato callejero llamado Bob no es solo una historia sobre la supervivencia en las duras calles de Londres; es un relato conmovedor sobre la redención y la compañía entre James Bowen, un músico callejero en apuros luchando contra la adicción, y Bob, un gato callejero extraordinariamente inteligente que elige a James como su compañero humano. Esta emotiva memoria va más allá de la típica historia de hombre conoce animal para adentrarse en cómo Bob, con su lealtad inquebrantable y sus travesuras peculiares, prácticamente rescata a James, guiándolo hacia un camino de recuperación. Su conmovedor vínculo, puesto a prueba por los desafíos de la vida en la calle, demuestra el poder transformador del amor y el cuidado mutuo. Perfecto para amantes de los animales y buscadores de almas por igual, esta historia invita a los lectores a la inverosímil travesía de un hombre y su gato navegando juntos por los obstáculos de la vida, encontrando esperanza y sanación en la compañía del otro.",
+        "vi": true
+    },
+    {
+        "video": "movies/DOG：un viaje salvaje.mkv" ,
+        "imagen": "movies/dog un viaje salvaje.jpg",
+        "trailer" : "",
+        "titulo": "Basadas en la vida real, Mascotas",
+        "category": "Tecnología",
+        "cast" : "Elenco: Channing Tatum, Jane Adams, Kevin Nash, Q'orianka Kilcher, Ethan Suplee, Emmy Raver-Lampman, Nicole LaLiberte.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Sonido De Libertad.mp4" ,
+        "imagen": "movies/Sonido de libertad.jpg",
+        "trailer" : "",
+        "titulo": "Basadas en la vida real, Espias",
+        "category": "Tecnología",
+        "cast" : "Elenco: Jim Caviezel, Mira Sorvino, Bill Camp.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Luz negra.mp4" ,
+        "imagen": "movies/luz negra.jpg",
+        "trailer" : "",
+        "titulo": "luz Negra",
+        "category": "Espias, Ciencia Ficción",
+        "cast" : "Elenco: Liam Neeson, Emmy Raver-Lampman, Taylor John Smith, Aidan Quinn.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/La conspiracion del poder.mp4" ,
+        "imagen": "movies/la conspiracion del poder.jpg",
+        "trailer" : "",
+        "titulo": "La conspiracion del poder",
+        "category": "Tecnología, Basadas en la vida real, Espias",
+        "cast" : "Elenco: Shane West, Edward Burns, Ving Rhames, Jonathan Pryce, Tamara Feldman, Martin Shee.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/01 La Ultima Viajera del Tiempo Rubí.mp4",
+        "imagen": "movies/rubi.jpg",
+        "trailer" : "",
+        "titulo": "La Ultima Viajera del Tiempo Rubí PARTE 1",
+        "category": "Ciencia Ficción",
+        "cast" : "Elenco: Maria Ehrich, Jannis Niewöhner, Laura Berlin.",
+        "descript": "La Ultima Viajera del Tiempo Rubí PARTE 1",
+        "vi": true
+    },
+    {
+        "video": "movies/02 La Ultima Viajera Del Tiempo Esmeralda.mp4",
+        "imagen": "movies/esmeralda.jpg",
+        "trailer" : "",
+        "titulo": "La Ultima Viajera Del Tiempo Esmeralda PARTE 2",
+        "category": "Ciencia Ficción",
+        "cast" : "Elenco: Maria Ehrich, Jannis Niewöhner, Laura Berlin.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/03 Zafiro La ultima viajera del tiempo.mp4",
+        "imagen": "movies/zafiro.jpg",
+        "trailer" : "",
+        "titulo": "Zafiro La ultima viajera del tiempo PARTE 3",
+        "category": "Ciencia Ficción",
+        "cast" : "Elenco: Maria Ehrich, Jannis Niewöhner, Laura Berlin.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Ver Spider-Man Un Nuevo Universo.mp4" ,
+        "imagen": "movies/spider man a new universe.jpg",
+        "trailer" : "",
+        "titulo": "Spider-Man Un Nuevo Universo",
+        "category": "Marvel, Sony, super heroes",
+        "cast" : "Elenco: Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry, Lily Tomlin, Luna Lauren Vélez, John Mulaney, Kimiko Glenn, Nicolas Cage, Liev Schreiber.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Spide Man Acros the Spide Verse.mp4" ,
+        "imagen": "movies/spider man across the spider verse.jpg",
+        "trailer" : "",
+        "titulo": "spider man atraves del spider verso",
+        "category": "Marvel, Sony, super heroes",
+        "cast" : "Elenco: Shameik Moore, Hailee Steinfeld, Brian Tyree Henry, Lauren Vélez, Jake Johnson, Jason Schwartzman, Issa Rae, Karan Soni, Shea Whigham, Greta Lee, Daniel Kaluuya, Mahershala Ali, Oscar Isaac.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Super Mario Bros.mp4" ,
+        "imagen": "movies/mario.jpeg",
+        "trailer" : "",
+        "titulo": "Super Mario Bros",
+        "category": "Animaciones",
+        "cast" : "Elenco: Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, Keegan-Michael Key, Seth Rogen, Fred Armisen, Sebastian Maniscalco, Kevin Michael Richardson, Charles Martinet",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Mi novia es un extraterrestre.mp4",
+        "imagen": "movies/Mi novia es un extraterrestre.jpg",
+        "trailer" : "",
+        "titulo": "Mi novia es un extraterrestre",
+        "category": "Ciencia Ficción",
+        "cast" : "Elenco: Dan Aykroyd, Kim Basinger, Jon Lovitz.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/La Conspiracion del Diablo.mp4" ,
+        "imagen": "movies/La conspiración del diablo.jpg",
+        "trailer" : "",
+        "titulo": "La conspiración del diablo",
+        "category": "Ciencia Ficción",
+        "cast" : "Elenco: Alice Orr-Ewing, Joe Doyle, Eveline Hall, Peter Mensah, Joe Anderson, Spencer Wilding, Brian Caspe, James Faulkner.",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/iBoy 2017.mp4" ,
+        "imagen": "movies/iboy.jpg",
+        "trailer" : "",
+        "titulo": "iBoy 2017",
+        "category": "Tecnología, Ciencia Ficción",
+        "cast" : "Elenco: ",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/Splice: Experimento Mortal 2009.mp4" ,
+        "imagen": "movies/Splice Experimento mortal.jpg",
+        "trailer" : "",
+        "titulo": "Splice: Experimento Mortal",
+        "category": "Ciencia Ficción, Terror",
+        "cast" : "Elenco: ",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/La cosa The Thing 1.mp4" ,
+        "imagen": "movies/the thing 1.jpg",
+        "trailer" : "",
+        "titulo": "The Thing 1",
+        "category": "Ciencia Ficción, Terror",
+        "cast" : "Elenco: ",
+        "descript": "",
+        "vi": true
+    },
+    {
+        "video": "movies/The Thing 1982.mp4" ,
+        "imagen": "movies/the thing 2.jpeg",
+        "trailer" : "",
+        "titulo": "The Thing 2",
+        "category": "Ciencia Ficción, Terror",
+        "cast" : "Elenco: ",
+        "descript": "",
+        "vi": true
+    }
+]
