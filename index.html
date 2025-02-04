@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>DANNYMRTNZ27</title>
+    <meta property="og:title" content="DANNYMRTNZ27">
+    <meta property="og:description" content="contenido solo de uso personal no de venta, ni propaganda.">
+    <meta property="og:imagen" content="https://drive.google.com/file/d/1VHl8O1WjGCi4lqifKmJNX1BV7CDTAlsm/view?usp=sharing">
+	<link rel="icon" href="/assets/iconos/ipoppys.png" />
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" type="text/css" href="/assets/css/movies.css?v=1.2.1">
+</head>
+<body>
+    <div class="logo">
+		<a href="index.html">
+			<img src="assets/iconos/ipoppys.svg">
+		</a>
+		<a class="menu" id="menu"> 
+            <svg viewBox="0 0 179 176" fill="none">
+                <path d="M174 88C174 133.76 136.248 171 89.5 171C42.7519 171 5 133.76 5 88C5 42.2397 42.7519 5 89.5 5C136.248 5 174 42.2397 174 88Z" stroke-width="10"/>
+                <line x1="35" y1="88.5" x2="143" y2="88.5" stroke-width="15"/>
+                <line x1="35" y1="118.5" x2="143" y2="118.5" stroke-width="15"/>
+                <line x1="35" y1="58.5" x2="143" y2="58.5" stroke-width="15"/>
+            </svg>
+        </a>
+        <a class="atras" id="bt-back" href="index.html" style="display:none;"> 
+            <svg viewBox="0 0 176 91" fill="none">
+                <path d="M16 46H176M16 46L86 7M16 46L86 84" stroke="white" stroke-width="15"/>
+            </svg>
+        </a>
+	</div>
+    <div class="search-bar">
+        <input type="text" id="search-input" placeholder="Busca una película por título o nombre de actores">
+    </div>
+        <div class="memodal">
+            <div class="centrado">
+                <div id="filterMenu" class="filter-menu">
+                    <a href="index.html" class="filter-option" data-category="all">Mostrar Todo</a>
+                    <a href="#" class="filter-option" data-category="2024">ESTRENOS</a>
+                    <a href="#" class="filter-option" data-category="Tecnología">Tecnología</a>
+                    <a href="#" class="filter-option" data-category="Ciencia Ficción">Ciencia Ficción</a>
+                    <a href="#" class="filter-option" data-category="Espias">Espias</a>
+                    <a href="#" class="filter-option" data-category="Romance">Romance</a>
+                    <a href="#" class="filter-option" data-category="Terror">Terror</a>
+                    <a href="#" class="filter-option" data-category="Navideñas">Navideñas</a>
+                    <a href="#" class="filter-option" data-category="Marvel">Marvel</a>
+                    <a href="#" class="filter-option" data-category="Super Heroes">Super Heroes</a>
+                    <a href="#" class="filter-option" data-category="Basadas en la vida real">Basadas en la vida real</a>
+                    <a href="#" class="filter-option" data-category="Comedia">Comedia</a>
+                    <a href="#" class="filter-option" data-category="Policiales">Policiales</a>
+                    <a href="#" class="filter-option" data-category="Mascotas">Mascotas</a>
+                    <a href="#" class="filter-option" data-category="Aventura">Aventura</a>
+                    <a href="#" class="filter-option" data-category="Familiar">Familiar</a>
+                    <a href="#" class="filter-option" data-category="Suspenso">Suspenso</a>
+                    <a href="#" class="filter-option" data-category="Animadas">Animadas</a>
+                    <a href="#" class="filter-option" data-category="Acción">Acción</a>
+                    <a href="#" class="filter-option" data-category="Guerras">Guerras</a>
+                    <a href="#" class="filter-option" data-category="Aliens">Aliens</a>
+                    <a href="#" class="filter-option" data-category="Viajes en el Tiempo">Viajes en el Tiempo</a>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div id="search-results" class="responsibe"></div>
+    <div class="conedor">
+        <div class="responsibe" id="video-container">
+
+	    </div>
+        <div class="videoConteU">
+        <br>
+        <br>
+        <h2 id="video-title"></h2>
+        <video id="video-player-local" controls style="display:none;"></video>
+        <iframe id="video-player-youtube" style="display:none;" frameborder="0" allowfullscreen></iframe>
+        <br>
+        <div class="superior">
+        <div class="descrpt">
+            <h3 id="Video-Elenco"></h3>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <h1 id="video-description"></h1>
+        </div>
+        <div class="opciones">
+            <a class="trailer" id="trailer">
+                <svg viewBox="0 0 175 107" fill="none">
+                    <rect x="4" y="4" width="167" height="98.3726" rx="16" stroke-width="8"/>
+                    <path d="M73.2026 74.9962V36.1715C73.2026 33.773 75.8779 32.3443 77.8712 33.6784L108.195 53.9731C110.014 55.1909 109.959 57.8845 108.09 59.0261L77.7669 77.5561C75.7678 78.7777 73.2026 77.339 73.2026 74.9962Z" fill="white"/>
+                </svg>
+            </a>
+            <a class="descarga" id="download-button" style="display:none;">
+                <svg viewBox="7 0 160 176" fill="none">
+                    <rect y="149" width="578" height="7" fill="white"/>
+                    <path d="M70.0124 76.5294V5H107.311V76.5294H140L88.8714 133L39 76.5294H70.0124Z" stroke="white" stroke-width="10"/>
+                </svg>
+            </a>
+            <a class="compartir" id="share-button" style="display:none;">
+                <svg viewBox="0 0 180 320" fill="none">
+                    <path d="M167 71.1988C167 71.1988 120.745 32.0678 107.709 15V43.7238C107.709 43.7238 82.479 42.2668 54.7258 49.3437C26.9726 56.4206 -2.042 86.8096 8.05006 124.9C18.1421 162.99 68.1819 175.687 79.956 171.108C71.5459 169.026 54.7258 156.871 54.7258 124.9C54.7258 92.929 90.048 89.0991 107.709 91.1806V124.9L167 71.1988Z" stroke="white" stroke-width="10"/>
+                </svg>
+            </a>
+            <div class="poster" id="poster">
+                <img class="thumbnail" src="${item.imagen}" alt="${item.titulo}" style="display:none;" />
+            </div>
+        </div>
+        </div>
+    </div>
+<button class="more" id="load-more">Ver más</button>
+<script src="/assets/js/loadVideos.js?v=1.2.1"></script>
+<script src="/assets/js/trailer.js?v=1.2.1"></script>
+</body>
+</html>
