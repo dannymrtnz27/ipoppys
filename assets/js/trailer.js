@@ -268,3 +268,37 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 });
+
+
+
+document.addEventListener("DOMContentLoaded", () => {
+    const updateDeviceAndOrientation = () => {
+        const userAgent = navigator.userAgent.toLowerCase();
+        const isMobile = /android|iphone|ipad|ipod|windows phone/.test(userAgent);
+
+        // Agregar clase según el tipo de dispositivo
+        if (isMobile) {
+            document.body.classList.add("mobile");
+            document.body.classList.remove("desktop");
+        } else {
+            document.body.classList.add("desktop");
+            document.body.classList.remove("mobile");
+        }
+
+        // Agregar clase según la orientación
+        if (window.innerWidth > window.innerHeight) {
+            document.body.classList.add("horizontal");
+            document.body.classList.remove("vertical");
+        } else {
+            document.body.classList.add("vertical");
+            document.body.classList.remove("horizontal");
+        }
+    };
+
+    // Detectar cambios en la orientación y el tamaño
+    window.addEventListener("resize", updateDeviceAndOrientation);
+    window.addEventListener("orientationchange", updateDeviceAndOrientation);
+
+    // Configuración inicial
+    updateDeviceAndOrientation();
+});
