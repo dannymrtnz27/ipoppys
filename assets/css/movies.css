@@ -1,4 +1,4 @@
-* {
+    * {
     margin: 0%;
     padding: 0%;
 }
@@ -80,6 +80,7 @@ video {
 }
 
 #search-results {
+    color: white;
     display: flex;
     flex-direction: column; /* Alinear los elementos en una columna */
     gap: 10px; /* Espacio entre cada elemento */
@@ -110,10 +111,10 @@ video {
 }
 
 .movie-item img {
-    width: 50px; /* Tamaño de la miniatura */
-    height: 50px; /* Tamaño de la miniatura */
+    width: 40px; /* Tamaño de la miniatura */
+    height: 56px; /* Tamaño de la miniatura */
     object-fit: cover; /* Recorta la imagen si es necesario */
-    border-radius: 50%; /* Hace la imagen redonda */
+    border-radius: 26%; /* Hace la imagen redonda */
 }
 
 .movie-item .movie-info {
@@ -259,9 +260,9 @@ svg:hover {
 .atras {
     display: none;
     width: 40px;
-    height: 40px;
+    height: 24px;
     position: absolute;
-    inset: 61% 0% 0% 5%;
+    inset: 25% 0% 0% 5%;
     cursor: pointer;
 }
 .atras:hover {
@@ -322,8 +323,8 @@ svg:hover {
     display: block; /* Hacer que los enlaces ocupen todo el ancho */
     text-decoration: none; /* Eliminar el subrayado */
     color: white; /* Establecer el color del texto */
-    padding: 3px;
-    font-size: 16px;
+    padding: 0px;
+    font-size: 12px;
     border-radius: 5px;
     background: none;
     transition: background 0.3s ease;
@@ -334,13 +335,20 @@ svg:hover {
 .filter-menu a:hover {
     background: linear-gradient(to right, rgb(1, 4, 50), rgb(40, 0, 77));  /* Efecto al pasar el rat車n */
 }
-
-/* Estilos para dispositivos móviles */
-body.mobile .conedor {
+/* Estilos para dispositivos móviles en orientación vertical */
+body.mobile.vertical .conedor {
     width: 100%;
     position: absolute;
     margin: 0% auto;
-    inset: 18% 0% 0% 0%;
+    inset: 20% 0% 0% 0%;
+}
+
+/* Estilos para dispositivos móviles en orientación horizontal */
+body.mobile.horizontal .conedor {
+    width: 100%;
+    position: absolute;
+    margin: 0% auto;
+    inset: 47% 0% 0% 0%; /* Ajuste para horizontal */
 }
 
 /* Estilos para computadoras */
@@ -618,14 +626,6 @@ body.desktop .conedor {
     .menu:hover {
         stroke: #727272;
     }
-    .conedor {
-        width: 91%;
-        position: absolute;
-        top: 24%; /* Distancia desde el borde superior */
-        left: 50%; /* Centrar horizontalmente */
-        transform: translate(4%, 0); /* Ajustar para centrar */
-        text-align: center; /* Alineación básica de contenido */
-    }
     
     .responsibe {
         display: block; /* Compatibilidad con navegadores antiguos */
@@ -678,6 +678,24 @@ body.desktop .conedor {
         background: linear-gradient(to right, rgb(1, 4, 50), rgb(40, 0, 77)); /* Efecto al pasar el ratón */
     }
     
+    body.computer-mode .conedor {
+        width: 91%;
+        position: absolute;
+        top: 24%; /* Distancia desde el borde superior */
+        left: 6%; /* Centrar horizontalmente */
+        transform: translate(-2%, 0); /* Ajustar para centrar */
+        text-align: center; /* Alineación básica de contenido */
+    }
+
+    body.tv-mode .conedor {
+        width: 91%;
+        position: absolute;
+        top: 24%; /* Distancia desde el borde superior */
+        left: 50%; /* Centrar horizontalmente */
+        transform: translate(-50%, 0); /* Ajustar para centrar */
+        text-align: center; /* Alineación básica de contenido */
+    }
+
     /* Estilo para computadoras */
     body.computer-mode .filter-menu a {
         background-color: red;
